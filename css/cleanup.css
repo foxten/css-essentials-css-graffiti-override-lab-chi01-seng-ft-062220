@@ -7,7 +7,7 @@ div#wall #tag-2{
   display: none;
 }
 
-div#wall["tag-3"] {
+body div#wall #tag-3.slick{
   display: none;
 }
 
@@ -15,7 +15,7 @@ div#wall #tag-4{
   display: none;
 }
 
- div#wall .parent #tag-5.slick{
+body div#wall .parent #tag-5.slick{
   display: none;
 }
 
